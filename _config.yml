@@ -1,0 +1,14 @@
+layout_spectrum: 0.9856661
+typography_spectrum: 0
+color:
+  lightness: 0.959542
+  brandStrength: 0.7284153
+  saturation: 0.2810428
+  rhythmicContrast: 0.8794267
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Jesusmap
