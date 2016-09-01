@@ -1,4 +1,3 @@
-layout_spectrum: 0.9856661
 typography_spectrum: 0
 color:
   lightness: 0.959542
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9856661
 name: Jesusmap
+description: DREAMS
