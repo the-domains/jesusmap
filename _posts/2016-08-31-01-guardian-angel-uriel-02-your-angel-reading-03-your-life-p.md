@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-31T22:42:04.188Z'
+datePublished: '2016-08-31T22:44:19.455Z'
+sourcePath: >-
+  _posts/2016-08-31-01-guardian-angel-uriel-02-your-angel-reading-03-your-life-p.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:42:02.724Z'
+dateModified: '2016-08-31T22:44:17.805Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,11 +14,11 @@ description: >-
   Final Outcome 13 Your Character Analysis 15 Your 21 Day Action Plan 25
   Conclusion 37
 starred: false
-sourcePath: >-
-  _posts/2016-08-31-01-guardian-angel-uriel-02-your-angel-reading-03-your-life-p.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1d48ee-38bb-4ff7-821e-3fe22324a0c2.jpg)
+
 01 Guardian Angel Uriel 02 Your Angel Reading 03 Your Life Purpose 05 The Present Moment 05 Self-Reflection 07 The Week Ahead 09 The Next 3 Weeks 11 The Final Outcome 13 Your Character Analysis 15 Your 21 Day Action Plan 25 Conclusion 37
 
 An Introduction to Angel Readings
